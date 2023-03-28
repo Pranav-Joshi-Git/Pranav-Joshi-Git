@@ -1,3 +1,5 @@
+<h1 align="center"> Hi 👋🏻, I'm Pranav Joshi </br> 
+</h1>
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on Angular and .NET<br>🌱 I’m currently learning AEM<br>💬 Ask me about Python, Machine Learning, C#, Angular, .NET<br>⚡ There are only 10 types of people in the world: those who understand binary, and those who don't.
 
